@@ -1,2 +1,2 @@
-# a-simple-responsive-blog
+# A Simple Responsive Blog
 GitHub Pages
