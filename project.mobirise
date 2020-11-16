@@ -26,8 +26,8 @@
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#ed4266",
@@ -260,7 +260,7 @@
       "email": "kia3230@gmail.com",
       "currency": "USD"
     },
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
